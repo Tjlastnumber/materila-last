@@ -2,7 +2,7 @@
     "name": "material-last",
     "displayName": "Material-last",
     "description": "Material Theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "tjlastnumber",
     "engines": {
         "vscode": "^1.15.0"
@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "/materila-last.icon",
+    "icon": "material-last.icon",
     "contributes": {
         "themes": [
             {
