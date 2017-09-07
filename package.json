@@ -1,0 +1,22 @@
+{
+    "name": "material-last",
+    "displayName": "Material-last",
+    "description": "Material Theme",
+    "version": "0.0.2",
+    "publisher": "tjlastnumber",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material-last",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material-last-color-theme.json"
+            }
+        ]
+    }
+}
