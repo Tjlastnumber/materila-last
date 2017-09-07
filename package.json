@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "/materila-last.icon",
     "contributes": {
         "themes": [
             {
