@@ -2,10 +2,10 @@
     "name": "material-last",
     "displayName": "Material-last",
     "description": "Material Theme",
-    "version": "0.0.3",
-    "publisher": "tjlastnumber",
+    "version": "0.0.4",
+    "publisher": "Sxh",
     "engines": {
-        "vscode": "^1.15.0"
+        "vscode": "^1.17.2"
     },
     "categories": [
         "Themes"
@@ -19,5 +19,8 @@
                 "path": "./themes/Material-last-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "builder": "vsce package"
     }
 }
