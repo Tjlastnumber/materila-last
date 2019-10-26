@@ -38,27 +38,17 @@
 		"tab.inactiveBackground": "#212a30",
 		"tab.border": "#212a30",
 		"tab.activeBorder": "#ffcc00",
-		"editorGroup.background": "#263238",
+		"editorGroup.emptyBackground": "#263238",
 		"editorGroupHeader.tabsBackground": "#242d33",
 		"editorGroupHeader.noTabsBackground": "#263238",
 		"editorGroup.border": "#182328",
-		"notification.foreground": "#000000",
-		"notification.background": "#ffc600",
-		"notification.buttonBackground": "#fa6981",
-		"notification.buttonHoverBackground": "#ff9d00",
-		"notification.buttonForeground": "#ffffff",
-		"notification.infoBackground": "#fa6981",
-		"notification.infoForeground": "#ffffff",
-		"notification.warningBackground": "#ff9d00",
-		"notification.warningForeground": "#000000",
-		"notification.errorBackground": "#a22929",
-		"notification.errorForeground": "#ffffff",
 		"panel.background": "#242d33",
 		"panelTitle.inactiveForeground": "#455c67",
 		"panelTitle.activeBorder": "#263238",
 		"panel.border": "#ffc600",
 		"panelTitle.activeForeground": "#ffc600",
-		"statusBar.foreground": "#455c67",
+		"statusBar.foreground": "#b2ccd6",
+		"statusBar.noFolderBackground": "#fa6981",
 		"statusBar.background": "#263238",
 		"activityBar.background": "#242d33",
 		"activityBar.foreground": "#455c67",
@@ -92,8 +82,7 @@
 	},
 	"tokenColors": [{
 			"settings": {
-				"foreground": "#b2ccd6ff",
-				"background": "#263238ff"
+				"foreground": "#b2ccd6ff"
 			}
 		},
 		{
