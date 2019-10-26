@@ -2,7 +2,7 @@
     "name": "material-last",
     "displayName": "Material-last",
     "description": "Material Theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "tjlastnumber",
     "engines": {
         "vscode": "^1.17.2"
