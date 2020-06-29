@@ -10,7 +10,6 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./material-last.icon",
     "contributes": {
         "themes": [
             {
