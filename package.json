@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://github.com/Tjlastnumber/materila-last/blob/master/material-last.icon",
+    "icon": "https://raw.githubusercontent.com/Tjlastnumber/materila-last/master/material-last.icon",
     "contributes": {
         "themes": [
             {
